@@ -1,0 +1,6 @@
+suites:
+    pinduoduo_suite:
+        namespace: Pinduoduo
+        psr4_prefix: Pinduoduo
+formatter.name: pretty
+
