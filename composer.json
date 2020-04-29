@@ -22,7 +22,13 @@
     "email" : "handsomegyr@gmail.com",
     "homepage" : "http://github.com/handsomegyr/"
   } ],
-  "keywords" : [ "pinduoduo" ],
+  "keywords" : [ 
+	"pinduoduo",
+	"duoduoke",
+	"拼多多",
+	"拼多多SDK",
+	"多多客",
+	"sdk" ],
   "autoload" : {
     "psr-0" : {
       "Pinduoduo" : "lib/"
